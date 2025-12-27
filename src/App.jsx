@@ -124,7 +124,7 @@ function App() {
                 <div className="container">
                     <h2>Connect</h2>
                     <div className="social-links">
-                        <a href="#"><Instagram size={24} /></a>
+                        <a href="https://www.instagram.com/_untoldable_lines_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer"><Instagram size={24} /></a>
                         <a href="#"><Mail size={24} /></a>
                     </div>
                     <p className="copyright">&copy; {new Date().getFullYear()} Untoldable Lines. All Rights Reserved.</p>
